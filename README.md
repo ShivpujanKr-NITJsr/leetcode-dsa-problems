@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0143-reorder-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
