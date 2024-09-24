@@ -6,14 +6,12 @@
 #         self.right = right
 class Solution(object):
     def inorderTraversal(self, root):
-        if root==None :
-            return []
-        if (root.left==None ):
-            k= [root.val]
-            return k+self.inorderTraversal(root.right)
-        else:
+        
+        if root:
             k= [root.val]
             return self.inorderTraversal(root.left)+k+self.inorderTraversal(root.right)
+        else:
+            return []
         
 
 
