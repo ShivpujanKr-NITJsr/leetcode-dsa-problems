@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
