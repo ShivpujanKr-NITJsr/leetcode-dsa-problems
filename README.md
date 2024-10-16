@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0652-find-duplicate-subtrees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0652-find-duplicate-subtrees) |
+| [1319-unique-number-of-occurrences](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1319-unique-number-of-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0643-maximum-average-subarray-i) |
+| [1319-unique-number-of-occurrences](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1833-find-the-highest-altitude](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
