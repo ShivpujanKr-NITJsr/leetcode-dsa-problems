@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0975-range-sum-of-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
