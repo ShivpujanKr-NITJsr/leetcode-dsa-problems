@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
+| [0652-find-duplicate-subtrees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0652-find-duplicate-subtrees) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0904-leaf-similar-trees) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0652-find-duplicate-subtrees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0975-range-sum-of-bst) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0904-leaf-similar-trees) |
