@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0287-find-the-duplicate-number) |
+| [1833-find-the-highest-altitude](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
