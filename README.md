@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0643-maximum-average-subarray-i) |
