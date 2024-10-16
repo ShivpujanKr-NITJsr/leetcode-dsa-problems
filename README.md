@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0975-range-sum-of-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
