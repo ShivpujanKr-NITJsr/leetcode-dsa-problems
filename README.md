@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
