@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0222-count-complete-tree-nodes) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
