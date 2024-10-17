@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0652-find-duplicate-subtrees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0652-find-duplicate-subtrees) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
