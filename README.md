@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
