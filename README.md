@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Function
