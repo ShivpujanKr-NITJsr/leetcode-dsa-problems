@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
