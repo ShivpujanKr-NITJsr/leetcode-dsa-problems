@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0652-find-duplicate-subtrees](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0652-find-duplicate-subtrees) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
