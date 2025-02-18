@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
+| [1078-remove-outermost-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Hash Function
 |  |
 | ------- |
