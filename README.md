@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivpujanKr-NITJsr/leetcode-dsa-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Function
 |  |
